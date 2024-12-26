@@ -1,0 +1,12 @@
+D:\iefp\VisualBasic\ExOficinaAutomovel\bin\Debug\ExOficinaAutomovel.exe.config
+D:\iefp\VisualBasic\ExOficinaAutomovel\bin\Debug\ExOficinaAutomovel.exe
+D:\iefp\VisualBasic\ExOficinaAutomovel\bin\Debug\ExOficinaAutomovel.pdb
+D:\iefp\VisualBasic\ExOficinaAutomovel\bin\Debug\ExOficinaAutomovel.xml
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.vbproj.AssemblyReference.cache
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.Form1.resources
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.Resources.resources
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.vbproj.GenerateResource.cache
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.vbproj.CoreCompileInputs.cache
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.exe
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.xml
+D:\iefp\VisualBasic\ExOficinaAutomovel\obj\Debug\ExOficinaAutomovel.pdb
